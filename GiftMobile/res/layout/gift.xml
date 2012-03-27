@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="100px"
+    android:layout_height="fill_parent">
+    
+    
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/income"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Income">
+    </Button>
+    
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/expense"
+    android:layout_width="100px"
+    
+    android:layout_height="wrap_content"
+    android:text="Expense">
+    </Button>
+    
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Asset">
+    </Button>
+    
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Liability">
+    </Button>
+    
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Sell of Assets">
+    </Button>
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/conflict"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Conflict">
+    </Button>
+    
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Memories">
+    </Button>
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100px"
+    android:layout_height="wrap_content"
+    android:text="Graph">
+    </Button>
+    </LinearLayout>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+    android:layout_width="100px"
+    android:layout_height="fill_parent">
+    
+    <!--  
+    <Gallery  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200px"
+    android:layout_height="fill_parent">
+    
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="100px"
+	android:layout_eight="100px"
+	android:src="@drawable/icon">
+	</ImageView>
+    
+    </Gallery>
+	<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="100px"
+	android:layout_eight="100px"
+	android:src="@drawable/icon">
+	</ImageView>
+	 -->
+	
+	</LinearLayout>
+
+</LinearLayout>
