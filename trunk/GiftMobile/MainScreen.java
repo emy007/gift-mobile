@@ -59,7 +59,7 @@ public class MainScreen  extends Activity
 		bundle.putInt("id", v.getId());
 		
 		/*
-		 * code to retrieve data according to the requires category
+		 * code to retrieve data according to the required category
 		 */
 		// dummy data!
 		ArrayList lData=new ArrayList<String>();
