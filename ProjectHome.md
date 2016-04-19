@@ -1,0 +1,1 @@
+It is an android application which manages expenses within a family.
